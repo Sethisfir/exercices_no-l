@@ -1,0 +1,35 @@
+nav{
+	width: 200px;
+	height: 650px;
+	background-color: #676dc7;
+}
+#conteneur{
+	display: flex;
+}
+#flexbox{
+	display: flex;
+	flex-direction: column;
+}
+header{
+	height: 150px;
+	width: 1000px;
+	background-color: #d3cd75;
+}
+#edit{
+	height: 500px;
+	width: 1000px;
+	background-color: #60c18b;
+}
+#chen{
+	height: 250px;
+	width: 700px;
+	border:solid 1px white;
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-left: 50px;
+	text-align: center;
+	background-color: #dfd69f;
+}
+#edit img{
+	float: right;
+}
